@@ -1,7 +1,7 @@
 # Sistema de Gestión de Reservas - Equipo 09
 
 ## Integrantes
-- Walmeyda Quispe Walter Hernán (Líder Técnico & Scrum Master)
+- Almeyda Quispe Walter Hernán (Líder Técnico & Scrum Master)
 - Zavaleta Pascual Meyder Smit (Desarrolladora Backend 1 - Módulo Clientes)
 - Lopez Huamani Nicole Lisset (Desarrollador Backend 2 - Módulo Servicios)
 - Gutierrez Orihuela Jaquelin Aurelia (Desarrollador Backend 3 - Módulo Reservas)
