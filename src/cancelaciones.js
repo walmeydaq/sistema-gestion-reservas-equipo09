@@ -1,0 +1,1 @@
+// Modificación alternativa para generar un conflicto en cancelaciones
