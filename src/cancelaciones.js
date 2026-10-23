@@ -1,0 +1,1 @@
+// Modificación local para la práctica de conflicto del módulo de cancelaciones
